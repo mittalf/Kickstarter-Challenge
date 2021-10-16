@@ -15,7 +15,7 @@ Two new analyses are now required
 For this analysis, first the Year column was created in the Kickstarter spreadsheet ([Kickstarter_Challenge.xlsx](/Kickstarter_Challenge.xlsx), so we can break the campaign create date data further to see which month each campaign had started.    Then a pivot table was created to show the total count of various outcomes (successful, failed, and canceled) for each create month of the Year for the “theater” category. 
 Then a line chart was created so we can quickly visually see if there are any relationships between campaign launch (create) month and the campaign’s outcomes (successful, failed, canceled). 
 
-![Theater_Outcomes_vs_Launch.png](Resources/Outcomes_vs_Goals.png)
+![Theater_Outcomes_vs_Launch.png](Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Outcomes based on goals:
 The purpose of this analysis is to use Excel to visualize the percentage of successful, failed, and canceled plays based on the funding goal amount. 
