@@ -16,7 +16,7 @@ For this analysis, first the Year column was created in the Kickstarter spreadsh
 Then a line chart was created so we can quickly visually see if there are any relationships between campaign launch (create) month and the campaign’s outcomes (successful, failed, canceled). 
 
 Insert picture of PNG chart based on the launch date.
-![Theater_Outcomes_vs_Launch.png](/Resources/ Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch.png](Outcomes_vs_Goals.png)
 ### Outcomes based on goals:
 The purpose of this analysis is to use Excel to visualize the percentage of successful, failed, and canceled plays based on the funding goal amount. 
 
@@ -26,7 +26,7 @@ Total number of projects (total projects column) was calculated using the SUM fo
 A line chart is created to visualize the relationship between the goal-amount ranges on the x-axis and the percentage of successful, failed and canceled projects on the y-axis.
 
 Insert picture of PNG chart based on the goal
-![Outcomes_vs_Goals.png](/Resources/ Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals.png](Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 The analysis was not difficult; however, it was challenging as the formulas used to calculate the total number of each outcome (successful, failed, and canceled) for each goal category needed to be carefully entered and the final totals needed to be crosschecked for accuracy.
